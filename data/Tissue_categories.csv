@@ -1,0 +1,50 @@
+Tissue,Tissue_category
+eqtlgen,eQTLGen - whole blood
+Testis,Glandular - endocrine
+Thyroid,Glandular - endocrine
+Nerve_Tibial,Neural - PNS
+Cells_Cultured_fibroblasts,Cell line
+Muscle_Skeletal,Muscle - skeletal
+Skin_Not_Sun_Exposed_Suprapubic,Epithelium
+Whole_Blood,GTEx - whole blood
+Skin_Sun_Exposed_Lower_leg,Epithelium
+Artery_Tibial,Vascular
+Esophagus_Mucosa,Mucosa
+Lung,Lung
+Brain_Cerebellum,Neural - CNS
+Brain_Cerebellar_Hemisphere,Neural - CNS
+Artery_Aorta,Vascular
+Pituitary,Glandular - endocrine
+Esophagus_Muscularis,Muscle - smooth
+Pancreas,Glandular - endocrine
+Spleen,Lymphoid
+Colon_Transverse,Muscle / Mucosa
+Adipose_Visceral_Omentum,Adipose
+Heart_Atrial_Appendage,Muscle - cardiac
+Brain_Cortex,Neural - CNS
+Colon_Sigmoid,Muscle - smooth
+Liver,Hepatic
+Breast_Mammary_Tissue,Glandular - exocrine
+Esophagus_Gastroesophageal_Junction,Muscle - smooth
+Heart_Left_Ventricle,Muscle - cardiac
+Stomach,Muscle / Mucosa
+Adrenal_Gland,Glandular - endocrine
+Brain_Nucleus_accumbens_basal_ganglia,Neural - CNS
+Brain_Caudate_basal_ganglia,Neural - CNS
+Cells_EBV-transformed_lymphocytes,Cell line
+Brain_Frontal_Cortex_BA9,Neural - CNS
+Brain_Anterior_cingulate_cortex_BA24,Neural - CNS
+Prostate,Glandular - exocrine
+Brain_Putamen_basal_ganglia,Neural - CNS
+Brain_Spinal_cord_cervical_c-1,Neural - CNS
+Small_Intestine_Terminal_Ileum,Lymphoid
+Brain_Hypothalamus,Glandular - endocrine
+Brain_Hippocampus,Neural - CNS
+Minor_Salivary_Gland,Glandular - exocrine
+Ovary,Glandular - endocrine
+Artery_Coronary,Vascular
+Brain_Substantia_nigra,Neural - CNS
+Brain_Amygdala,Neural - CNS
+Vagina,Muscle / Mucosa
+Kidney_Cortex,Renal
+Uterus,Muscle / Mucosa

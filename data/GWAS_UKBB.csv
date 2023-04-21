@@ -1,0 +1,31 @@
+Abbreviation,Acronym_UKBB,Acronym
+Alzheimer,LOAD_UKBB,LOAD_consortium
+Atopic dermatitis,AD_UKBB,AD
+Atrial fibrillation,AF_UKBB,AF
+Asthma,ASTHMA,ASTHMA
+Bipolar,BIPOLAR_UKBB,BIPOLAR
+Osteoporosis,BMD,BMD
+CAD,CAD_UKBB,CAD_consortium
+COPD,COPD_UKBB,COPD_FIG_UKBB
+Diastolic BP,DBP,DBP_meta
+CKD,eGFR_UKBB,eGFR
+Epilepsy,EPILEPSY_UKBB,EPILEPSY
+Endometriosis,ENDOMETRIOSIS_UKBB,ENDOMETRIOSIS_FIG_UKBB
+Glaucoma,GLAUCOMA_UKBB,GLAUCOMA
+IBD,IBD_K51_UKBB,IBD_consortium
+IBS,IBS_UKBB,IBS
+LDL,LDL,LDL
+MDD,MDD_UKBB,MDD
+Multiple sclerosis,MS_UKBB,MS
+Osteoarthritis,OA_UKBB,OA
+Parkinson's disease,PD_UKBB,PD
+Pneumonia,PNEUMONIA_UKBB,PNEUMONIA_FIG_UKBB
+Psoriasis,PSORIASIS_UKBB,PSORIASIS_FIG_UKBB
+Rheumatoid arthritis,RA_UKBB,RA_consortium
+Systolic BP,SBP,SBP_meta
+Schizophrenia,SCZ_UKBB,SCZ_consortium
+Stroke,STROKE_UKBB,STROKE
+T1D,T1D_UKBB,T1D
+T2D,T2D_UKBB,T2D
+Total cholesterol,TC,TC
+VTE,VTE_UKBB,VTE_UKBB

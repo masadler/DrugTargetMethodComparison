@@ -1,0 +1,31 @@
+Abbreviation,Acronym_Exome,Acronym,ICD10_class,file_name
+Alzheimer,LOAD,LOAD_consortium,Nervous system,Phe10_G30__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Atopic dermatitis,AD,AD,Skin,20002_Illness_code_SR_1452_eczema_dermatitis_AnyInst__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Atrial fibrillation,AF,AF,Circulatory system,Phe10_I48__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Asthma,ASTHMA,ASTHMA,Respiratory,Phe10_J45__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Bipolar,BIPOLAR,BIPOLAR,Psychiatric,Phe10_F31__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Osteoporosis,BMD,BMD,Musculoskeletal and connective tissue,3148_Heel_bone_mineral_density_BMD_inst_mean__RINT.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+CAD,CAD,CAD_consortium,Circulatory system,Phe10_I25__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+COPD,COPD,COPD_FIG_UKBB,Respiratory,Phe10_J44__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Diastolic BP,DBP,DBP_meta,Circulatory system,4079_Diastolic_blood_pressure_automated_reading_inst_mean__RINT.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+CKD,CKD,eGFR,Genitourinary,Phe10_N18__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Epilepsy,EPILEPSY,EPILEPSY,Nervous system,Phe10_G40__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Endometriosis,ENDOMETRIOSIS,ENDOMETRIOSIS_FIG_UKBB,Genitourinary,Phe10_N80__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Glaucoma,GLAUCOMA,GLAUCOMA,Eye,Phe10_H40__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+IBD,IBD,IBD_consortium,Digestive system,Phe10_K51__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+IBS,IBS,IBS,Digestive system,Phe10_K58__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+LDL,LDL,LDL,Metabolic,30780_LDL_direct_inst_mean__RINT.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+MDD,MDD,MDD,Psychiatric,Phe10_F33__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Multiple sclerosis,MS,MS,Nervous system,Phe10_G35__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Osteoarthritis,OA,OA,Musculoskeletal and connective tissue,Phe10_M17__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Parkinson's disease,PD,PD,Nervous system,Phe10_G20__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Pneumonia,PNEUMONIA,PNEUMONIA_FIG_UKBB,Respiratory,Phe10_J18__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Psoriasis,PSORIASIS,PSORIASIS_FIG_UKBB,Skin,Phe10_L40__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Rheumatoid arthritis,RA,RA_consortium,Musculoskeletal and connective tissue,Phe10_M06__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Systolic BP,SBP,SBP_meta,Circulatory system,4080_Systolic_blood_pressure_automated_reading_inst_mean__RINT.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Schizophrenia,SCZ,SCZ_consortium,Psychiatric,Phe10_F20__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Stroke,STROKE,STROKE,Circulatory system,20002_Illness_code_SR_1081_stroke_AnyInst__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+T1D,T1D,T1D,Metabolic,Phe10_E10__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+T2D,T2D,T2D,Metabolic,Phe10_E11__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+Total cholesterol,TC,TC,Metabolic,30690_Cholesterol_inst_mean__RINT.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
+VTE,VTE,VTE_UKBB,Circulatory system,20002_Illness_code_SR_1094_deep_venous_thrombosis_dvt_AnyInst__BIN.UKB_Freeze_450_EUR.WES.Burden.Results4GWAScatalog.tsv.gz
