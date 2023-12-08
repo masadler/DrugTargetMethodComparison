@@ -18,6 +18,8 @@ The workflow is organized as a [snakemake](https://snakemake.readthedocs.io/en/s
 
 In this study, input data comes from various public databases which can be large datasets and sometimes needs the signing of terms and conditions (i.e. to download the deCODE data). Here, we describe the different steps that need to be taken in order to assemble all required input data. When using this data, please consider citing the sources appropriately.
 
+Final gene prioritization scores and drug target data can be downloaded from [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10304595).
+
 ## Drug data
 
 To define drug targets two different sources of input data is needed:
