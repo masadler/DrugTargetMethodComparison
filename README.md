@@ -8,7 +8,6 @@ If you use scripts from this Github please consider citing the article:
 
 Sadler MC, Auwerx C, Deelen P, Kutalik Z. Multi-layered genetic approaches to identify approved drug targets. [Cell Genomics 3, no. 7 (July 2023): 100341](https://doi.org/10.1016/j.xgen.2023.100341)
 
-Sadler, Marie C., Chiara Auwerx, Patrick Deelen, and Zoltan Kutalik. "Multi-layered genetic approaches to identify approved drug targets." Cell Genomics (2023).
 # Usage
 
 This Github contains the workflow pipeline that was used to define drug targets, calculate method-specific gene scores, network diffusion scores and drug target enrichment scores (odds ratios and AUC scores). Code to calculate other statistics presented in the study such as agreement between different gene scoring methods, drug database and network statistics as well drug target heritability analyses is also part of the pipeline.
